@@ -1,0 +1,19 @@
+
+.jam-container{
+    margin-left: 20px;
+}
+
+.image-thumbnail{
+    width: 400px;
+    height: 400px;
+}
+
+.description {
+    min-width: 300px
+}
+.view-more{
+    border:1px solid black;
+    float:right;
+    margin-right:50px;
+    width: fit-content;
+}
